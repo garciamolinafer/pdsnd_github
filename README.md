@@ -4,7 +4,7 @@
 4/11/2024
 
 ### Project Title
-RUBICON - BIKESHARE by Fernando Garcia Molina
+RUBRIC - BIKESHARE PYTHON PROGRAM by Fernando Garcia Molina
 
 ### Description
 Evaluation of bikesharing information on three american cities. Based on historical data and using python pandas and numpy capabilities
