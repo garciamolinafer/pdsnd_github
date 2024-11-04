@@ -4,14 +4,16 @@
 4/11/2024
 
 ### Project Title
-GITHUBFER
+RUBRIC - BIKESHARE PYTHON PROGRAM by Fernando Garcia Molina
 
 ### Description
-Describe what your project is about and what it does
+Evaluation of bikesharing information on three american cities. Based on historical data and using python pandas and numpy capabilities
 
 ### Files used
-Include the files used
+Bikeshare_2.py main python file
+chicago.csv/new_york_city.csv/washington.csv as supporting data files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Part of the UDACITY training
+By Fernando Garcia Molina
 
